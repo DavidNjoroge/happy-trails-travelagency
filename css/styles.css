@@ -1,9 +1,10 @@
 .tropical{
   font-family: fantasy;
+  color:
 }
-h3.tropical{
+.tropical h3{
   color: #f7325e;
 }
-ul.tropical{
+.tropical ul{
   color: #7dc410;
 }
